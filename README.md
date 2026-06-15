@@ -50,7 +50,7 @@ A fully interactive macOS-inspired portfolio built using React.js and Vite. The 
 Clone the repository:
 
 ```bash
-https://github.com/chhavi-varshney/mac-os.git](https://github.com/chhavi-varshney/Mac-OS-Portfolio
+https://github.com/chhavi-varshney/Mac-OS-Portfolio
 ```
 
 Move into the project directory:
