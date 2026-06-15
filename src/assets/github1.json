@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1,
+        "image": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?auto=format&fit=crop&q=80&w=1000",
+
+    "title": "ReactProject1-PasteApp",
+    "description": "A React-based paste management application that allows users to create, edit, copy and organize text snippets efficiently.",
+    "tags": ["React", "JavaScript", "Redux Toolkit", "Tailwind CSS", "Vite"],
+    "repoLink": "https://github.com/chhavi-varshney/ReactProject1-PasteApp",
+    "demoLink": "https://react-project1-paste-app.vercel.app/"
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&q=80&w=1000",
+    "title": "TailwindCSS_Project",
+    "description": "A collection of responsive web interfaces and components built using Tailwind CSS.",
+    "tags": ["HTML", "CSS", "Tailwind CSS", "Responsive Design"],
+    "repoLink": "https://github.com/chhavi-varshney/TailwindCSS_Project",
+    "demoLink": null
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?auto=format&fit=crop&q=80&w=1000",
+    "title": "Project-1-CodeTrack-LeetCode-Stats-Tracker",
+    "description": "A LeetCode statistics tracking application that helps users monitor coding progress and performance.",
+    "tags": ["React", "JavaScript", "API", "LeetCode"],
+    "repoLink": "https://github.com/chhavi-varshney/Project-1-CodeTrack-LeetCode-Stats-Tracker",
+    "demoLink": null
+  },
+  {
+    "id": 4,
+        "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&q=80&w=1000",
+
+    "title": "log-classification-hybrid",
+    "description": "A hybrid log classification system combining Regex, Machine Learning and LLM-based approaches.",
+    "tags": ["Python", "Machine Learning", "LLM", "Regex", "Jupyter Notebook"],
+    "repoLink": "https://github.com/chhavi-varshney/log-classification-hybrid",
+    "demoLink": null
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=1000",
+
+    "title": "crime-detection",
+    "description": "A machine learning project focused on identifying and analyzing crime-related patterns from datasets.",
+    "tags": ["Python", "Machine Learning", "Data Analysis"],
+    "repoLink": "https://github.com/chhavi-varshney/crime-detection",
+    "demoLink": null
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&q=80&w=1000",
+    "title": "Crime-Prediction-chicagoDataset",
+    "description": "A predictive analytics project that uses Chicago crime datasets to forecast crime occurrences.",
+    "tags": ["Python", "Machine Learning", "Prediction Model", "Data Science"],
+    "repoLink": "https://github.com/chhavi-varshney/Crime-Prediction-chicagoDataset",
+    "demoLink": null
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&q=80&w=1000",
+    "title": "Social-Network-Recommendation-System",
+    "description": "A recommendation system designed to suggest relevant users and connections within a social network.",
+    "tags": ["Python", "Recommendation System", "Machine Learning", "Jupyter Notebook"],
+    "repoLink": "https://github.com/chhavi-varshney/Social-Network-Recommendation-System",
+    "demoLink": null
+  },
+  {
+    "id": 8,
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=1000",
+    "title": "Spam-Message-Classifier",
+    "description": "A machine learning classifier that detects spam messages using natural language processing techniques.",
+    "tags": ["Python", "NLP", "Machine Learning", "Classification"],
+    "repoLink": "https://github.com/chhavi-varshney/Spam-Message-Classifier",
+    "demoLink": null
+  },
+  {
+    "id": 9,
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=1000",
+    "title": "Monthly-Profit-Analysis",
+    "description": "A business analytics project for analyzing monthly profit trends and generating actionable insights.",
+    "tags": ["Python", "Data Analysis", "Visualization", "Jupyter Notebook"],
+    "repoLink": "https://github.com/chhavi-varshney/Monthly-Profit-Analysis",
+    "demoLink": null
+  },
+  {
+    "id": 10,
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&q=80&w=1000",
+    "title": "HtmlProject",
+    "description": "A frontend web development project built using HTML, CSS and basic web design principles.",
+    "tags": ["HTML", "CSS", "Web Development"],
+    "repoLink": "https://github.com/chhavi-varshney/HtmlProject",
+    "demoLink": null
+  }
+]

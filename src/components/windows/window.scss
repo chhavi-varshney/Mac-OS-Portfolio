@@ -1,0 +1,53 @@
+.window{
+    height: 100%;
+    // width: 1000px;
+    background-color: black;
+    border-radius: 0.75rem;
+    overflow: hidden;
+    color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    .nav{
+        padding-inline: 0.75rem;
+        padding-block: 0.5rem;
+        display: flex;
+        gap: 1.5rem;
+        align-items: center;
+        border-bottom: 1px solid rgba(245, 245, 245, 0.307);
+        cursor: move; 
+        .dots{
+            display: flex;
+            gap: 0.25rem;
+
+            .dot{
+                height: 15px;
+                width: 15px;
+                background-color: aliceblue;
+                border-radius: 50%;
+            }
+            .red{
+                background-color: red;
+                cursor: default;
+            }
+            .yellow{
+                background-color: yellow;
+            }
+            .green{
+                background-color: green;
+            }
+        }
+       
+    }
+    .main-content{
+        height: 100%;
+    }
+
+    *::-webkit-scrollbar{
+        width: 8px;
+    }
+    *::-webkit-scrollbar-thumb{
+        background-color: rgb(93, 84, 84);
+        border-radius: 4px;
+    }
+    
+}

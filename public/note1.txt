@@ -1,0 +1,206 @@
+/**
+
+* @file: profile.config.ts
+* @author: Chhavi Varshney
+* @summary: MERN Stack Developer, Data Analyst & Competitive Programmer.
+  */
+
+// --------------------------------------------------
+// 1. CORE DEPENDENCIES & SKILLS
+// --------------------------------------------------
+
+const TECH_STACK = {
+programming: [
+"C++",          // 90%
+"JavaScript",   // 85%
+"Python",       // 80%
+"SQL",          // 80%
+],
+
+webDevelopment: [
+"React.js",     // 90%
+"Node.js",      // 85%
+"Express.js",   // 85%
+"MongoDB",      // 80%
+],
+
+analytics: [
+"Power BI",     // 90%
+"Tableau",      // 85%
+"Pandas",       // 80%
+"scikit-learn", // 75%
+],
+
+tools: [
+"Git",
+"GitHub",
+"VS Code",
+"Postman"
+]
+};
+
+// --------------------------------------------------
+// 2. PROJECT EXPERIENCE LOG
+// --------------------------------------------------
+
+class ProfessionalHistory {
+
+/**
+
+* CURRENT ROLE
+* @period 2023 - Present
+  */
+  public async IMS_Engineering_College(): Promise<Progress> {
+
+```
+const role = "Computer Science Undergraduate";
+```
+
+```
+const academics = {
+  degree: "B.Tech CSE",
+  cgpa: "8.64"
+};
+
+const focus = [
+  "Data Structures & Algorithms",
+  "Full Stack Development",
+  "Machine Learning",
+  "Data Analytics"
+];
+
+return { role, academics, focus };
+```
+
+}
+
+/**
+
+* MAJOR PROJECT
+* @period 2026
+  */
+  public async Hybrid_AI_Log_Classification(): Promise<Impact> {
+
+```
+const stack = [
+```
+
+```
+  "Python",
+  "FastAPI",
+  "Regex",
+  "Sentence Transformers",
+  "LLMs"
+];
+
+const accuracyBoost = "40%";
+const deployment = "Real-Time REST API";
+
+return {
+  stack,
+  accuracyBoost,
+  deployment
+};
+```
+
+}
+
+/**
+
+* PREVIOUS PROJECT
+* @period 2025
+  */
+  public Spam_Detection_Model(): void {
+
+```
+this.model = "Naive Bayes Classifier";
+```
+
+```
+this.vectorization = "TF-IDF";
+
+// Achieved ~95% Accuracy
+// SMS & Email Spam Classification
+```
+
+}
+
+/**
+
+* RECOMMENDATION ENGINE
+* @period 2025
+  */
+  public Social_Network_Recommendation_System(): void {
+
+```
+this.domain = "Graph-Based Recommendation";
+```
+
+```
+this.dataset = "JSON User Networks";
+
+// Simulated "People You May Know"
+// Relationship Analysis & Recommendations
+```
+
+}
+}
+
+// --------------------------------------------------
+// 3. COMPETITIVE ACHIEVEMENTS
+// --------------------------------------------------
+
+interface Achievement {
+title: string;
+milestone: string;
+}
+
+const trophyCabinet: Achievement[] = [
+{
+title: "LeetCode",
+milestone: "300+ Problems Solved"
+},
+{
+title: "AI Deployment & Automation Internship",
+milestone: "EduSkills (8 Weeks)"
+},
+{
+title: "Job Ready Data Science Certification",
+milestone: "Machine Learning & Analytics"
+},
+{
+title: "Python 101 for Data Science",
+milestone: "Cognitive Class"
+}
+];
+
+// --------------------------------------------------
+// 4. ACADEMIC BACKGROUND
+// --------------------------------------------------
+
+const education = new Map<string, string>([
+["IMS Engineering College", "B.Tech CSE | CGPA: 8.64"],
+["Tithonus International School", "Class XII | 91%"],
+["Tithonus International School", "Class X | 85%"]
+]);
+
+export default new ProfessionalHistory();
+
+````
+
+```bash
+# TERMINAL OUTPUT
+# ---------------------------------------
+
+$ chhavi --status
+
+> Status: Open to Internship Opportunities
+> Role: MERN Stack Developer
+> Education: B.Tech CSE (2023 - 2027)
+> CGPA: 8.64
+> DSA Progress: 300+ Problems Solved
+> Current Focus: React.js | Power BI | Machine Learning
+> Location: India
+> Loading Assets... [||||||||||] 100%
+> Ready.
+````
